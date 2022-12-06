@@ -10,8 +10,9 @@ CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
 ![Image](readme_img/GUI.jpg)
 
 ## 下载链接
-链接：https://pan.baidu.com/s/1BhSW7hTQT0ptAvwYX9oI6A?pwd=32vd  
-提取码：32vd
+链接：https://pan.baidu.com/s/1pwlOVA9I6F3oSqsa2eJn2g?pwd=oeyj   
+提取码：oeyj   
+
 
 ## 使用说明
 1. 下载解压安装包
