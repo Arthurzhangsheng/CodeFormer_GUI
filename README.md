@@ -10,6 +10,12 @@ CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
 ![Image](readme_img/GUI.jpg)
 
 ## 下载链接
+- v20221230版  
+新增支持非整数帧率的视频  
+链接：https://pan.baidu.com/s/1qStP9_ijFAbY6DOQAKNl3w?pwd=92m0  
+提取码：92m0  
+
+
 - v20221208版  
 新增支持视频清晰化  
 链接：https://pan.baidu.com/s/18kLjGTALE5h1AI5_wWNOJQ?pwd=o9an   
