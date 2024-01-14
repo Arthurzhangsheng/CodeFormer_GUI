@@ -12,10 +12,10 @@ CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
 ## 下载链接
 
 
-- v20230427版  
-修改说明里的链接地址
-链接：https://pan.baidu.com/s/1ch7oT5Vdif6rMh1w_BArGQ?pwd=8dug 
-提取码：8dug 
+- v20240114版
+支持了40系显卡
+链接：https://pan.baidu.com/s/1URjPk5FaJhHcC6nI3P2v0A?pwd=s2dp 
+提取码：s2dp 
 
 
 
@@ -34,6 +34,6 @@ CodeFormer人脸清晰化工具图形界面版，自带环境解压即用
 [deepfacelab官方仓库](https://github.com/iperov/DeepFaceLab)  
 [deepfacelab官方中文论坛](https://dfldata.cc)  
 [deepfacelab云训练平台](https://dflyun.com)  
-deepfacelab交流QQ群：124500433  
+deepfacelab交流QQ群：519316315  
  
 
